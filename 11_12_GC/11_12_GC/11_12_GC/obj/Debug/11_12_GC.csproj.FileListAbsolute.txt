@@ -1,0 +1,7 @@
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\bin\Debug\11_12_GC.exe.config
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\bin\Debug\11_12_GC.exe
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\bin\Debug\11_12_GC.pdb
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\obj\Debug\11_12_GC.csprojAssemblyReference.cache
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\obj\Debug\11_12_GC.csproj.CoreCompileInputs.cache
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\obj\Debug\11_12_GC.exe
+C:\Users\garaguly.csaba\Desktop\11_12_GC\11_12_GC\obj\Debug\11_12_GC.pdb
