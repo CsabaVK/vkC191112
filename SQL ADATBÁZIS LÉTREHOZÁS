@@ -1,0 +1,16 @@
+create database teszt;
+
+use teszt;
+
+create table nevek(
+id int Primary key identity(1, 1),
+nev varchar(50),
+ev int);
+
+insert into nevek(nev, ev) values
+('Odd Béla', 2000),
+('Tak Józs', 1997),
+('Merc Károly', 1994),
+('Jass Ugor', 2002),
+('Részeg Toni', 2005);
+
